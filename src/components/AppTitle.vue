@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 export default {
     name: "AppTitle",
 }
@@ -10,4 +10,4 @@ export default {
 
 <style scoped>
 
-</style>
+</style> -->
